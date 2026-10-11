@@ -1,0 +1,10 @@
+# Cache & environment
+f1_cache/
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Model artifacts
+models/*.joblib
+data/*.csv
